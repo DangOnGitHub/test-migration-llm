@@ -1,0 +1,10 @@
+[
+  {
+    "source": "java:com.thealgorithms.audiofilters:IIRFilter:setCoeffs",
+    "target": "python:audio_filters.iir_filter:IIRFilter:set_coefficients"
+  },
+  {
+    "source": "java:com.thealgorithms.audiofilters:IIRFilter:process",
+    "target": "python:audio_filters.iir_filter:IIRFilter:process"
+  }
+]

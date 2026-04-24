@@ -1,0 +1,10 @@
+[
+  {
+    "source": "java:com.thealgorithms.scheduling:HighestResponseRatioNextScheduling:calculateTurnAroundTime",
+    "target": "python:scheduling.highest_response_ratio_next:calculate_turn_around_time"
+  },
+  {
+    "source": "java:com.thealgorithms.scheduling:HighestResponseRatioNextScheduling:calculateWaitingTime",
+    "target": "python:scheduling.highest_response_ratio_next:calculate_waiting_time"
+  }
+]

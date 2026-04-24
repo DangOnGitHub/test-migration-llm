@@ -1,0 +1,150 @@
+[
+  {
+    "source": "java:com.thealgorithms.maths:ZellersCongruence:calculateDay",
+    "target": "python:maths.zellers_congruence:zeller"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Ceil:ceil",
+    "target": "python:maths.ceil:ceil"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:TwinPrime:getTwinPrime",
+    "target": "python:maths.twin_prime:twin_prime"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:FastExponentiation:fastExponentiation",
+    "target": "python:maths.modular_exponential:modular_exponential"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:ExtendedEuclideanAlgorithm:extendedGCD",
+    "target": "python:maths.extended_euclidean_algorithm:extended_euclidean_algorithm"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:PalindromeNumber:isPalindrome",
+    "target": "python:maths.is_int_palindrome:is_int_palindrome"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:BinomialCoefficient:binomialCoefficient",
+    "target": "python:maths.binomial_coefficient:binomial_coefficient"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:SieveOfEratosthenes:findPrimes",
+    "target": "python:maths.sieve_of_eratosthenes:prime_sieve"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Factorial:factorial",
+    "target": "python:maths.factorial:factorial"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:JugglerSequence:jugglerSequence",
+    "target": "python:maths.juggler_sequence:juggler_sequence"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Area:surfaceAreaCube",
+    "target": "python:maths.area:surface_area_cube"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Area:surfaceAreaSphere",
+    "target": "python:maths.area:surface_area_sphere"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Area:surfaceAreaHemisphere",
+    "target": "python:maths.area:surface_area_hemisphere"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Area:surfaceAreaCone",
+    "target": "python:maths.area:surface_area_cone"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Area:surfaceAreaCylinder",
+    "target": "python:maths.area:surface_area_cylinder"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Area:surfaceAreaRectangle",
+    "target": "python:maths.area:area_rectangle"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Area:surfaceAreaSquare",
+    "target": "python:maths.area:area_square"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Area:surfaceAreaTriangle",
+    "target": "python:maths.area:area_triangle"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Area:surfaceAreaParallelogram",
+    "target": "python:maths.area:area_parallelogram"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Area:surfaceAreaTrapezium",
+    "target": "python:maths.area:area_trapezium"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Area:surfaceAreaCircle",
+    "target": "python:maths.area:area_circle"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:CollatzConjecture:collatzConjecture",
+    "target": "python:maths.collatz_sequence:collatz_sequence"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:NumberPersistence:multiplicativePersistence",
+    "target": "python:maths.persistence:multiplicative_persistence"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:NumberPersistence:additivePersistence",
+    "target": "python:maths.persistence:additive_persistence"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:BinaryPow:binPow",
+    "target": "python:maths.binary_exponentiation:binary_exp_recursive"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:BinaryPow:binPow",
+    "target": "python:maths.binary_exponentiation:binary_exp_iterative"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:QuadraticEquationSolver:solveEquation",
+    "target": "python:maths.quadratic_equations_complex_numbers:quadratic_roots"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:SumOfArithmeticSeries:sumOfSeries",
+    "target": "python:maths.sum_of_arithmetic_series:sum_of_series"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:PerfectSquare:isPerfectSquare",
+    "target": "python:maths.perfect_square:perfect_square"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:PerfectSquare:isPerfectSquareUsingPow",
+    "target": "python:maths.perfect_square:perfect_square_binary_search"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Means:geometric",
+    "target": "python:maths.geometric_mean:compute_geometric_mean"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:PerfectCube:isPerfectCube",
+    "target": "python:maths.perfect_cube:perfect_cube"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:PerfectCube:isPerfectCubeMathCbrt",
+    "target": "python:maths.perfect_cube:perfect_cube_binary_search"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:FibonacciLoop:compute",
+    "target": "python:maths.fibonacci:fib_matrix_np"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:Means:arithmetic",
+    "target": "python:maths.average_mean:mean"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:PerfectNumber:isPerfectNumber",
+    "target": "python:maths.perfect_number:perfect"
+  },
+  {
+    "source": "java:com.thealgorithms.maths:EulerMethod:eulerFull",
+    "target": "python:maths.euler_modified:euler_modified"
+  }
+]

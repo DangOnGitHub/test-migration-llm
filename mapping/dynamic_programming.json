@@ -1,0 +1,102 @@
+[
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:EditDistance:editDistance",
+    "target": "python:dynamic_programming.min_distance_up_bottom:min_distance_up_bottom"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:MinimumPathSum:minimumPathSum",
+    "target": "python:dynamic_programming.minimum_cost_path:minimum_cost_path"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:Tribonacci:compute",
+    "target": "python:dynamic_programming.tribonacci:tribonacci"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:ClimbingStairs:numberOfWays",
+    "target": "python:dynamic_programming.climbing_stairs:climb_stairs"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:RodCutting:cutRod",
+    "target": "python:dynamic_programming.rod_cutting:naive_cut_rod_recursive"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:LongestCommonSubsequence:getLCS",
+    "target": "python:dynamic_programming.longest_common_subsequence:longest_common_subsequence"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:LongestPalindromicSubsequence:lps",
+    "target": "python:dynamic_programming.longest_palindromic_subsequence:longest_palindromic_subsequence"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:RegexMatching:regexRecursion",
+    "target": "python:dynamic_programming.regex_match:recursive_match"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:RegexMatching:regexBU",
+    "target": "python:dynamic_programming.regex_match:dp_match"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:LongestIncreasingSubsequence:lis",
+    "target": "python:dynamic_programming.longest_increasing_subsequence_iterative:longest_subsequence"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:AssignmentUsingBitmask:countNoOfWays",
+    "target": "python:dynamic_programming.bitmask:AssignmentUsingBitmask:count_no_of_ways"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:MinimumSumPartition:minimumSumPartition",
+    "target": "python:dynamic_programming.minimum_partition:find_min"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:MaximumSumOfNonAdjacentElements:getMaxSumApproach1",
+    "target": "python:dynamic_programming.max_non_adjacent_sum:maximum_non_adjacent_sum"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:Abbreviation:abbr",
+    "target": "python:dynamic_programming.abbreviation:abbr"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:MaximumProductSubarray:maxProduct",
+    "target": "python:dynamic_programming.max_product_subarray:max_product_subarray"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:Fibonacci:fibOptimized",
+    "target": "python:dynamic_programming.fast_fibonacci:fibonacci"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:EditDistance:editDistance",
+    "target": "python:dynamic_programming.edit_distance:EditDistance:min_dist_top_down"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:EditDistance:editDistance",
+    "target": "python:dynamic_programming.edit_distance:EditDistance:min_dist_bottom_up"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:AllConstruct:allConstruct",
+    "target": "python:dynamic_programming.all_construct:all_construct"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:SmithWaterman:align",
+    "target": "python:dynamic_programming.smith_waterman:score_function"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:CoinChange:change",
+    "target": "python:dynamic_programming.minimum_coin_change:dp_count"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:PalindromicPartitioning:minimalPartitions",
+    "target": "python:dynamic_programming.palindrome_partitioning:find_minimum_partitions"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:WildcardMatching:isMatch",
+    "target": "python:dynamic_programming.wildcard_matching:is_match"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:SumOfSubset:subsetSum",
+    "target": "python:dynamic_programming.sum_of_subset:is_sum_subset"
+  },
+  {
+    "source": "java:com.thealgorithms.dynamicprogramming:LongestIncreasingSubsequenceNLogN:lengthOfLIS",
+    "target": "python:dynamic_programming.longest_increasing_subsequence_o_nlogn:longest_increasing_subsequence_length"
+  }
+]

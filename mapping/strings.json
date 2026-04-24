@@ -1,0 +1,62 @@
+[
+  {
+    "source": "java:com.thealgorithms.strings:Palindrome:isPalindrome",
+    "target": "python:strings.palindrome:is_palindrome"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:Palindrome:isPalindromeRecursion",
+    "target": "python:strings.palindrome:is_palindrome_recursive"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:AlternativeStringArrange:arrange",
+    "target": "python:strings.alternative_string_arrange:alternative_string_arrange"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:Pangram:isPangram",
+    "target": "python:strings.is_pangram:is_pangram"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:Pangram:isPangram",
+    "target": "python:strings.is_pangram:is_pangram_faster"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:Pangram:isPangram",
+    "target": "python:strings.is_pangram:is_pangram_fastest"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:Anagrams:areAnagramsBySorting",
+    "target": "python:strings.check_anagrams:check_anagrams"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:RemoveDuplicateFromString:removeDuplicate",
+    "target": "python:strings.remove_duplicate:remove_duplicates"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:HammingDistance:calculateHammingDistance",
+    "target": "python:strings.hamming_distance:hamming_distance"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:ReverseString:reverse",
+    "target": "python:strings.reverse_letters:reverse_letters"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:Lower:toLowerCase",
+    "target": "python:strings.lower:lower"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:RabinKarp:search",
+    "target": "python:strings.rabin_karp:rabin_karp"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:Isogram:isAlphabeticIsogram",
+    "target": "python:strings.is_isogram:is_isogram"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:Upper:toUpperCase",
+    "target": "python:strings.upper:upper"
+  },
+  {
+    "source": "java:com.thealgorithms.strings:ReverseWordsInString:reverseWordsInString",
+    "target": "python:strings.reverse_words:reverse_words"
+  }
+]

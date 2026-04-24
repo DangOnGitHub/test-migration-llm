@@ -1,0 +1,30 @@
+[
+  {
+    "source": "java:com.thealgorithms.backtracking:ParenthesesGenerator:generateParentheses",
+    "target": "python:backtracking.generate_parentheses:generate_parenthesis"
+  },
+  {
+    "source": "java:com.thealgorithms.backtracking:WordSearch:exist",
+    "target": "python:backtracking.word_search:word_exists"
+  },
+  {
+    "source": "java:com.thealgorithms.backtracking:PowerSum:powSum",
+    "target": "python:backtracking.power_sum:solve"
+  },
+  {
+    "source": "java:com.thealgorithms.backtracking:CrosswordSolver:solveCrossword",
+    "target": "python:backtracking.crossword_puzzle_solver:solve_crossword"
+  },
+  {
+    "source": "java:com.thealgorithms.backtracking:ParenthesesGenerator:generateParentheses",
+    "target": "python:backtracking.generate_parentheses_iterative:generate_parentheses_iterative"
+  },
+  {
+    "source": "java:com.thealgorithms.backtracking:WordPatternMatcher:matchWordPattern",
+    "target": "python:backtracking.match_word_pattern:match_word_pattern"
+  },
+  {
+    "source": "java:com.thealgorithms.backtracking:CombinationSum:combinationSum",
+    "target": "python:backtracking.combination_sum:combination_sum"
+  }
+]

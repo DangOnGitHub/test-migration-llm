@@ -1,0 +1,102 @@
+[
+  {
+    "source": "java:com.thealgorithms.ciphers:DiffieHellman:calculatePublicValue",
+    "target": "python:ciphers.diffie_hellman:DiffieHellman:generate_public_key"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:DiffieHellman:calculateSharedSecret",
+    "target": "python:ciphers.diffie_hellman:DiffieHellman:generate_shared_key"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:MonoAlphabetic:encrypt",
+    "target": "python:ciphers.mono_alphabetic_ciphers:encrypt_message"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:MonoAlphabetic:decrypt",
+    "target": "python:ciphers.mono_alphabetic_ciphers:decrypt_message"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:PlayfairCipher:encrypt",
+    "target": "python:ciphers.playfair_cipher:encode"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:PlayfairCipher:decrypt",
+    "target": "python:ciphers.playfair_cipher:decode"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:SimpleSubCipher:encode",
+    "target": "python:ciphers.simple_substitution_cipher:encrypt_message"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:SimpleSubCipher:decode",
+    "target": "python:ciphers.simple_substitution_cipher:decrypt_message"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:Caesar:encode",
+    "target": "python:ciphers.caesar_cipher:encrypt"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:Caesar:decode",
+    "target": "python:ciphers.caesar_cipher:decrypt"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:Polybius:encrypt",
+    "target": "python:ciphers.polybius:PolybiusCipher:encode"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:Polybius:decrypt",
+    "target": "python:ciphers.polybius:PolybiusCipher:decode"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:XORCipher:encrypt",
+    "target": "python:ciphers.xor_cipher:XORCipher:encrypt_string"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:XORCipher:decrypt",
+    "target": "python:ciphers.xor_cipher:XORCipher:decrypt_string"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:AtbashCipher:convert",
+    "target": "python:ciphers.atbash:atbash"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:PermutationCipher:encrypt",
+    "target": "python:ciphers.permutation_cipher:encrypt"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:PermutationCipher:decrypt",
+    "target": "python:ciphers.permutation_cipher:decrypt"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:BaconianCipher:encrypt",
+    "target": "python:ciphers.baconian_cipher:encode"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:BaconianCipher:decrypt",
+    "target": "python:ciphers.baconian_cipher:decode"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:Vigenere:encrypt",
+    "target": "python:ciphers.vigenere_cipher:encrypt_message"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:Vigenere:decrypt",
+    "target": "python:ciphers.vigenere_cipher:decrypt_message"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:RailFenceCipher:encrypt",
+    "target": "python:ciphers.rail_fence_cipher:encrypt"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:RailFenceCipher:decrypt",
+    "target": "python:ciphers.rail_fence_cipher:decrypt"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:Autokey:encrypt",
+    "target": "python:ciphers.autokey:encrypt"
+  },
+  {
+    "source": "java:com.thealgorithms.ciphers:Autokey:decrypt",
+    "target": "python:ciphers.autokey:decrypt"
+  }
+]

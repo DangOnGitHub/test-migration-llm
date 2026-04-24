@@ -1,0 +1,42 @@
+[
+  {
+    "source": "java:com.thealgorithms.bitmanipulation:NumbersDifferentSigns:differentSigns",
+    "target": "python:bit_manipulation.numbers_different_signs:different_signs"
+  },
+  {
+    "source": "java:com.thealgorithms.bitmanipulation:TwosComplement:twosComplement",
+    "target": "python:bit_manipulation.binary_twos_complement:twos_complement"
+  },
+  {
+    "source": "java:com.thealgorithms.bitmanipulation:HigherLowerPowerOfTwo:nextLowerPowerOfTwo",
+    "target": "python:bit_manipulation.find_previous_power_of_two:find_previous_power_of_two"
+  },
+  {
+    "source": "java:com.thealgorithms.bitmanipulation:SwapAdjacentBits:swapAdjacentBits",
+    "target": "python:bit_manipulation.swap_all_odd_and_even_bits:swap_odd_even_bits"
+  },
+  {
+    "source": "java:com.thealgorithms.bitmanipulation:IsEven:isEven",
+    "target": "python:bit_manipulation.is_even:is_even"
+  },
+  {
+    "source": "java:com.thealgorithms.bitmanipulation:Xs3Conversion:xs3ToBinary",
+    "target": "python:bit_manipulation.excess_3_code:excess_3_code"
+  },
+  {
+    "source": "java:com.thealgorithms.bitmanipulation:HighestSetBit:findHighestSetBit",
+    "target": "python:bit_manipulation.highest_set_bit:get_highest_set_bit_position"
+  },
+  {
+    "source": "java:com.thealgorithms.bitmanipulation:ReverseBits:reverseBits",
+    "target": "python:bit_manipulation.reverse_bits:reverse_bit"
+  },
+  {
+    "source": "java:com.thealgorithms.bitmanipulation:HigherLowerPowerOfTwo:nextLowerPowerOfTwo",
+    "target": "python:bit_manipulation.largest_pow_of_two_le_num:largest_pow_of_two_le_num"
+  },
+  {
+    "source": "java:com.thealgorithms.bitmanipulation:IndexOfRightMostSetBit:indexOfRightMostSetBit",
+    "target": "python:bit_manipulation.index_of_rightmost_set_bit:get_index_of_rightmost_set_bit"
+  }
+]

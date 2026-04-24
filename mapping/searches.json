@@ -1,0 +1,58 @@
+[
+  {
+    "source": "java:com.thealgorithms.searches:BinarySearch:find",
+    "target": "python:searches.simple_binary_search:binary_search"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:QuickSelect:select",
+    "target": "python:searches.quick_select:quick_select"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:FibonacciSearch:find",
+    "target": "python:searches.fibonacci_search:fibonacci_search"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:BinarySearch:find",
+    "target": "python:searches.binary_search:binary_search"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:BinarySearch:find",
+    "target": "python:searches.binary_search:binary_search_std_lib"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:BinarySearch:find",
+    "target": "python:searches.binary_search:exponential_search"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:JumpSearch:find",
+    "target": "python:searches.jump_search:jump_search"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:InterpolationSearch:find",
+    "target": "python:searches.interpolation_search:interpolation_search"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:InterpolationSearch:find",
+    "target": "python:searches.interpolation_search:interpolation_search_by_recursion"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:SentinelLinearSearch:find",
+    "target": "python:searches.sentinel_linear_search:sentinel_linear_search"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:LinearSearch:find",
+    "target": "python:searches.linear_search:linear_search"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:LinearSearch:find",
+    "target": "python:searches.linear_search:rec_linear_search"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:TernarySearch:find",
+    "target": "python:searches.ternary_search:ite_ternary_search"
+  },
+  {
+    "source": "java:com.thealgorithms.searches:ExponentialSearch:find",
+    "target": "python:searches.exponential_search:exponential_search"
+  }
+]

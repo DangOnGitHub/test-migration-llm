@@ -1,0 +1,90 @@
+[
+  {
+    "source": "java:com.thealgorithms.conversions:BinaryToOctal:convertBinaryToOctal",
+    "target": "python:conversions.binary_to_octal:bin_to_octal"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:HexToOct:decimalToOctal",
+    "target": "python:conversions.decimal_to_octal:decimal_to_octal"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:RgbHsvConversion:hsvToRgb",
+    "target": "python:conversions.rgb_hsv_conversion:hsv_to_rgb"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:RgbHsvConversion:rgbToHsv",
+    "target": "python:conversions.rgb_hsv_conversion:rgb_to_hsv"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:RomanToInteger:romanToInt",
+    "target": "python:conversions.roman_numerals:roman_to_int"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:OctalToBinary:convertOctalToBinary",
+    "target": "python:conversions.octal_to_binary:octal_to_binary"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:BinaryToHexadecimal:binToHex",
+    "target": "python:conversions.binary_to_hexadecimal:bin_to_hexadecimal"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:DecimalToHexadecimal:decToHex",
+    "target": "python:conversions.decimal_to_hexadecimal:decimal_to_hexadecimal"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:DecimalToAnyBase:convertToAnyBase",
+    "target": "python:conversions.decimal_to_any:decimal_to_any"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:TimeConverter:convertTime",
+    "target": "python:conversions.time_conversions:convert_time"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:OctalToHexadecimal:octalToDecimal",
+    "target": "python:conversions.octal_to_decimal:oct_to_decimal"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:DecimalToBinary:convertUsingConventionalAlgorithm",
+    "target": "python:conversions.decimal_to_binary:decimal_to_binary_iterative"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:DecimalToBinary:convertUsingConventionalAlgorithm",
+    "target": "python:conversions.decimal_to_binary:decimal_to_binary_iterative"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:BinaryToDecimal:binaryStringToDecimal",
+    "target": "python:conversions.binary_to_decimal:bin_to_decimal"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:TemperatureConverter:celsiusToFahrenheit",
+    "target": "python:conversions.temperature_conversions:celsius_to_fahrenheit"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:TemperatureConverter:celsiusToKelvin",
+    "target": "python:conversions.temperature_conversions:celsius_to_kelvin"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:TemperatureConverter:fahrenheitToCelsius",
+    "target": "python:conversions.temperature_conversions:fahrenheit_to_celsius"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:TemperatureConverter:fahrenheitToKelvin",
+    "target": "python:conversions.temperature_conversions:fahrenheit_to_kelvin"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:TemperatureConverter:kelvinToCelsius",
+    "target": "python:conversions.temperature_conversions:kelvin_to_celsius"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:TemperatureConverter:kelvinToFahrenheit",
+    "target": "python:conversions.temperature_conversions:kelvin_to_fahrenheit"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:HexaDecimalToDecimal:getHexaToDec",
+    "target": "python:conversions.hexadecimal_to_decimal:hex_to_decimal"
+  },
+  {
+    "source": "java:com.thealgorithms.conversions:NumberToWords:convert",
+    "target": "python:conversions.convert_number_to_words:convert_number"
+  }
+]

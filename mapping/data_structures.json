@@ -1,0 +1,190 @@
+[
+  {
+    "source": "java:com.thealgorithms.datastructures.heaps:MaxHeap:insertElement",
+    "target": "python:data_structures.heap.max_heap:BinaryHeap:insert"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.heaps:MaxHeap:deleteElement",
+    "target": "python:data_structures.heap.max_heap:BinaryHeap:pop"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.heaps:GenericHeap:updatePriority",
+    "target": "python:data_structures.heap.heap_generic:Heap:update_item"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.heaps:GenericHeap:remove",
+    "target": "python:data_structures.heap.heap_generic:Heap:delete_item"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.heaps:GenericHeap:add",
+    "target": "python:data_structures.heap.heap_generic:Heap:insert_item"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.heaps:GenericHeap:get",
+    "target": "python:data_structures.heap.heap_generic:Heap:get_top"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.heaps:MinHeap:getElement",
+    "target": "python:data_structures.heap.min_heap:MinHeap:get_value"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.heaps:MinHeap:insertElement",
+    "target": "python:data_structures.heap.min_heap:MinHeap:insert"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.heaps:MinHeap:isEmpty",
+    "target": "python:data_structures.heap.min_heap:MinHeap:is_empty"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.disjointsetunion:DisjointSetUnion:makeSet",
+    "target": "python:data_structures.disjoint_set.disjoint_set:make_set"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.disjointsetunion:DisjointSetUnion:unionSets",
+    "target": "python:data_structures.disjoint_set.disjoint_set:union_set"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.disjointsetunion:DisjointSetUnion:findSet",
+    "target": "python:data_structures.disjoint_set.disjoint_set:find_set"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:PriorityQueue:insert",
+    "target": "python:data_structures.queues.priority_queue_using_list:ElementPriorityQueue:enqueue"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:PriorityQueue:remove",
+    "target": "python:data_structures.queues.priority_queue_using_list:ElementPriorityQueue:dequeue"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:Queue:insert",
+    "target": "python:data_structures.queues.queue_on_pseudo_stack:Queue:put"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:Queue:getSize",
+    "target": "python:data_structures.queues.queue_on_pseudo_stack:Queue:size"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:CircularQueue:isEmpty",
+    "target": "python:data_structures.queues.circular_queue_linked_list:CircularQueueLinkedList:is_empty"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:CircularQueue:peek",
+    "target": "python:data_structures.queues.circular_queue_linked_list:CircularQueueLinkedList:first"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:CircularQueue:enQueue",
+    "target": "python:data_structures.queues.circular_queue_linked_list:CircularQueueLinkedList:enqueue"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:CircularQueue:deQueue",
+    "target": "python:data_structures.queues.circular_queue_linked_list:CircularQueueLinkedList:dequeue"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:LinkedQueue:isEmpty",
+    "target": "python:data_structures.queues.linked_queue:LinkedQueue:is_empty"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:LinkedQueue:enqueue",
+    "target": "python:data_structures.queues.linked_queue:LinkedQueue:put"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:LinkedQueue:dequeue",
+    "target": "python:data_structures.queues.linked_queue:LinkedQueue:get"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:LinkedQueue:clear",
+    "target": "python:data_structures.queues.linked_queue:LinkedQueue:clear"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:Deque:addLast",
+    "target": "python:data_structures.queues.double_ended_queue:Deque:append"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:Deque:addFirst",
+    "target": "python:data_structures.queues.double_ended_queue:Deque:appendleft"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:Deque:pollLast",
+    "target": "python:data_structures.queues.double_ended_queue:Deque:pop"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:Deque:pollFirst",
+    "target": "python:data_structures.queues.double_ended_queue:Deque:popleft"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:Deque:isEmpty",
+    "target": "python:data_structures.queues.double_ended_queue:Deque:is_empty"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:CircularQueue:isEmpty",
+    "target": "python:data_structures.queues.circular_queue:CircularQueue:is_empty"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:CircularQueue:peek",
+    "target": "python:data_structures.queues.circular_queue:CircularQueue:first"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:CircularQueue:enQueue",
+    "target": "python:data_structures.queues.circular_queue:CircularQueue:enqueue"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:CircularQueue:deQueue",
+    "target": "python:data_structures.queues.circular_queue:CircularQueue:dequeue"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:GenericArrayListQueue:add",
+    "target": "python:data_structures.queues.queue_by_list:QueueByList:put"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:GenericArrayListQueue:poll",
+    "target": "python:data_structures.queues.queue_by_list:QueueByList:get"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:QueueByTwoStacks:put",
+    "target": "python:data_structures.queues.queue_by_two_stacks:QueueByTwoStacks:put"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.queues:QueueByTwoStacks:get",
+    "target": "python:data_structures.queues.queue_by_two_stacks:QueueByTwoStacks:get"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.stacks:LinkedListStack:isEmpty",
+    "target": "python:data_structures.stacks.stack_with_singly_linked_list:LinkedStack:is_empty"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.stacks:LinkedListStack:push",
+    "target": "python:data_structures.stacks.stack_with_singly_linked_list:LinkedStack:push"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.stacks:LinkedListStack:pop",
+    "target": "python:data_structures.stacks.stack_with_singly_linked_list:LinkedStack:pop"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.stacks:LinkedListStack:peek",
+    "target": "python:data_structures.stacks.stack_with_singly_linked_list:LinkedStack:peek"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.stacks:LinkedListStack:makeEmpty",
+    "target": "python:data_structures.stacks.stack_with_singly_linked_list:LinkedStack:clear"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.stacks:StackArrayList:push",
+    "target": "python:data_structures.stacks.stack:Stack:push"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.stacks:StackArrayList:pop",
+    "target": "python:data_structures.stacks.stack:Stack:pop"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.stacks:StackArrayList:peek",
+    "target": "python:data_structures.stacks.stack:Stack:peek"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.stacks:StackArrayList:isEmpty",
+    "target": "python:data_structures.stacks.stack:Stack:is_empty"
+  },
+  {
+    "source": "java:com.thealgorithms.datastructures.stacks:StackArrayList:size",
+    "target": "python:data_structures.stacks.stack:Stack:size"
+  }
+]

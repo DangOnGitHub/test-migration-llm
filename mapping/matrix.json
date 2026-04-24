@@ -1,0 +1,14 @@
+[
+  {
+    "source": "java:com.thealgorithms.matrix:InverseOfMatrix:invert",
+    "target": "python:matrix.inverse_of_matrix:inverse_of_matrix"
+  },
+  {
+    "source": "java:com.thealgorithms.matrix:MedianOfMatrix:median",
+    "target": "python:matrix.median_matrix:median"
+  },
+  {
+    "source": "java:com.thealgorithms.matrix.matrixexponentiation:Fibonacci:fib",
+    "target": "python:matrix.nth_fibonacci_using_matrix_exponentiation:nth_fibonacci_matrix"
+  }
+]

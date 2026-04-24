@@ -1,0 +1,182 @@
+[
+  {
+    "source": "java:com.thealgorithms.sorts:MergeSortRecursive:mergeSort",
+    "target": "python:sorts.recursive_mergesort_array:merge"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:GnomeSort:sort",
+    "target": "python:sorts.gnome_sort:gnome_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:IntrospectiveSort:sort",
+    "target": "python:sorts.intro_sort:sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:QuickSort:sort",
+    "target": "python:sorts.recursive_quick_sort:quick_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:ShellSort:sort",
+    "target": "python:sorts.shrink_shell_sort:shell_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:MergeSort:sort",
+    "target": "python:sorts.unknown_sort:merge_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:CircleSort:sort",
+    "target": "python:sorts.circle_sort:circle_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:DutchNationalFlagSort:sort",
+    "target": "python:sorts.dutch_national_flag_sort:dutch_national_flag_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:InsertionSort:sort",
+    "target": "python:sorts.recursive_insertion_sort:rec_insertion_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:RadixSort:sort",
+    "target": "python:sorts.radix_sort:radix_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:PatienceSort:sort",
+    "target": "python:sorts.patience_sort:patience_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:BinaryInsertionSort:sort",
+    "target": "python:sorts.merge_insertion_sort:binary_search_insertion"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:CombSort:sort",
+    "target": "python:sorts.comb_sort:comb_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:CycleSort:sort",
+    "target": "python:sorts.cyclic_sort:cyclic_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:QuickSort:sort",
+    "target": "python:sorts.quick_sort:quick_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:InsertionSort:sort",
+    "target": "python:sorts.insertion_sort:insertion_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:SelectionSort:sort",
+    "target": "python:sorts.selection_sort:selection_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:StalinSort:sort",
+    "target": "python:sorts.stalin_sort:stalin_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:TimSort:sort",
+    "target": "python:sorts.tim_sort:tim_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:WiggleSort:sort",
+    "target": "python:sorts.wiggle_sort:wiggle_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:PigeonholeSort:sort",
+    "target": "python:sorts.pigeon_sort:pigeon_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:RadixSort:sort",
+    "target": "python:sorts.msd_radix_sort:msd_radix_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:RadixSort:sort",
+    "target": "python:sorts.msd_radix_sort:msd_radix_sort_inplace"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:ExchangeSort:sort",
+    "target": "python:sorts.exchange_sort:exchange_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:MergeSort:sort",
+    "target": "python:sorts.merge_sort:merge_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:BucketSort:sort",
+    "target": "python:sorts.bucket_sort:bucket_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:BeadSort:sort",
+    "target": "python:sorts.bead_sort:bead_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:TopologicalSort:sort",
+    "target": "python:sorts.topological_sort:topological_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:CocktailShakerSort:sort",
+    "target": "python:sorts.cocktail_shaker_sort:cocktail_shaker_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:CountingSort:sort",
+    "target": "python:sorts.counting_sort:counting_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:BogoSort:sort",
+    "target": "python:sorts.bogo_sort:bogo_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:BubbleSort:sort",
+    "target": "python:sorts.bubble_sort:bubble_sort_iterative"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:BubbleSort:sort",
+    "target": "python:sorts.bubble_sort:bubble_sort_recursive"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:PigeonholeSort:sort",
+    "target": "python:sorts.pigeonhole_sort:pigeonhole_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:HeapSort:sort",
+    "target": "python:sorts.heap_sort:heap_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:MergeSort:sort",
+    "target": "python:sorts.iterative_merge_sort:iter_merge_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:TreeSort:sort",
+    "target": "python:sorts.tree_sort:tree_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:BitonicSort:sort",
+    "target": "python:sorts.bitonic_sort:bitonic_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:StrandSort:sort",
+    "target": "python:sorts.strand_sort:strand_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:CycleSort:sort",
+    "target": "python:sorts.cycle_sort:cycle_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:PancakeSort:sort",
+    "target": "python:sorts.pancake_sort:pancake_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:SlowSort:sort",
+    "target": "python:sorts.slowsort:slowsort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:OddEvenSort:sort",
+    "target": "python:sorts.odd_even_sort:odd_even_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:BinaryInsertionSort:sort",
+    "target": "python:sorts.binary_insertion_sort:binary_insertion_sort"
+  },
+  {
+    "source": "java:com.thealgorithms.sorts:StoogeSort:sort",
+    "target": "python:sorts.stooge_sort:stooge_sort"
+  }
+]
